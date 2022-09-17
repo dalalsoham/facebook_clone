@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.facebook.com	TRUE	/	FALSE	1999999999	sb	LoglY4GRPFUrMziHy9ltWcm_
+.facebook.com	TRUE	/	FALSE	1999999999	noscript	deleted
+.facebook.com	TRUE	/	FALSE	1999999999	fr	088FdV9lCjOF6157Z..BjJYgu.LR.AAA.0.0.BjJYpS.AWU2mwCNO_Q
+
